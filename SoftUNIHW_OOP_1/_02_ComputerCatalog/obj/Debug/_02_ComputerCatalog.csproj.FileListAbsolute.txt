@@ -1,0 +1,9 @@
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication1\obj\Debug\_02_ComputerCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Aes\Documents\visual studio 2013\Projects\SoftUni_OOP_HW1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Aes\Documents\visual studio 2013\Projects\SoftUni_OOP_HW1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Aes\Documents\visual studio 2013\Projects\SoftUni_OOP_HW1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

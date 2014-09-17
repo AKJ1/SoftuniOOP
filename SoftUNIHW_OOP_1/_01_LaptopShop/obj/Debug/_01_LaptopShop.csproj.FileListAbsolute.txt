@@ -1,0 +1,9 @@
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\_01_LaptopShop.csprojResolveAssemblyReference.cache
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+c:\users\aes\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Aes\Documents\Visual Studio 2013\Projects\SoftUni_OOP_HW1\_01_LaptopShop\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Aes\Documents\Visual Studio 2013\Projects\SoftUni_OOP_HW1\_01_LaptopShop\obj\Debug\ConsoleApplication13.exe
+C:\Users\Aes\Documents\Visual Studio 2013\Projects\SoftUni_OOP_HW1\_01_LaptopShop\obj\Debug\ConsoleApplication13.pdb
