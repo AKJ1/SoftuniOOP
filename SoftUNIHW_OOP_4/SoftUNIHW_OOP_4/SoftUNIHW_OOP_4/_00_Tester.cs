@@ -23,7 +23,14 @@ namespace SoftUNIHW_OOP_4
             nextProblem("You are about to check out Problem 1: GalacticGPS.\nPress the Any key to Proceed.\n\n\n");
             GalacticGPS.HomeLocation();
             nextProblem("Next we'll do Problem 2: FractionCalculator. \nPress the Any key to Proceed.");
-            
+            FractionCalculator.TestFractions();
+            nextProblem("Next up is Generic List. The big one of this Homework.\nPress the Any Key to Proceed");
+            ListTester.Tester();
+            nextProblem("Looks like this was everything.");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Press the any key to exit");
+            Console.ReadKey();
+
 
 
         }

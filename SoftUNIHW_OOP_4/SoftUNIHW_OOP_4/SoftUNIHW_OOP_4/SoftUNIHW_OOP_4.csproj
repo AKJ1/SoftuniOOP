@@ -42,9 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="_02_FractionCalculator.cs" />
     <Compile Include="_01_GalacticGPS.cs" />
     <Compile Include="_00_Tester.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_03_GenericList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
