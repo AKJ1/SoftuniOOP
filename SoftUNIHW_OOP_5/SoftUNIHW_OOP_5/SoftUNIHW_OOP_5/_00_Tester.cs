@@ -23,8 +23,8 @@ namespace SoftUNIHW_OOP_5
             startProblems();
             nextProblem("You are about to check out Problem 1: InterestCalculator.\nPress the Any key to Proceed.\n\n\n");
             InterestCalculator.Test();
-            //nextProblem("Next we'll do Problem 2: FractionCalculator. \nPress the Any key to Proceed.");
-            //nextProblem("Next up is Generic List. The big one of this Homework.\nPress the Any Key to Proceed");
+            nextProblem("\n\n\nYou are about to check the Second Problem : Async Timer");
+            AsyncTimer.Tester();
             //nextProblem("Looks like this was everything.");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Press the any key to exit");
