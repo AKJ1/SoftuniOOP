@@ -1,0 +1,6 @@
+C:\Users\Aes\Documents\SoftuniOOP\SoftUNIHW_OOP_2\SoftUNIHW_OOP_2\bin\Debug\SoftUNIHW_OOP_2.exe.config
+C:\Users\Aes\Documents\SoftuniOOP\SoftUNIHW_OOP_2\SoftUNIHW_OOP_2\bin\Debug\SoftUNIHW_OOP_2.exe
+C:\Users\Aes\Documents\SoftuniOOP\SoftUNIHW_OOP_2\SoftUNIHW_OOP_2\bin\Debug\SoftUNIHW_OOP_2.pdb
+C:\Users\Aes\Documents\SoftuniOOP\SoftUNIHW_OOP_2\SoftUNIHW_OOP_2\obj\Debug\SoftUNIHW_OOP_2.csprojResolveAssemblyReference.cache
+C:\Users\Aes\Documents\SoftuniOOP\SoftUNIHW_OOP_2\SoftUNIHW_OOP_2\obj\Debug\SoftUNIHW_OOP_2.exe
+C:\Users\Aes\Documents\SoftuniOOP\SoftUNIHW_OOP_2\SoftUNIHW_OOP_2\obj\Debug\SoftUNIHW_OOP_2.pdb
