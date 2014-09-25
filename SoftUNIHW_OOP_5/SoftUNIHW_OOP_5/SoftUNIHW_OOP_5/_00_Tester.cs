@@ -21,17 +21,14 @@ namespace SoftUNIHW_OOP_5
         static void Main(string[] args)
         {
             startProblems();
-            nextProblem("You are about to check out Problem 1: InterestCalculator.\nPress the Any key to Proceed.\n\n\n");
+            nextProblem("You are about to check out Problem 1: InterestCalculator.");
             InterestCalculator.Test();
             nextProblem("\n\n\nYou are about to check the Second Problem : Async Timer");
             AsyncTimer.Tester();
             //nextProblem("Looks like this was everything.");
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Press the any key to exit");
-            Console.ReadKey();
-
-
-
+            nextProblem("\n\nNext, you're going to see Problem 3: Student Class");
+            Student.Tester();
+            exit();
         }
 
         static void startProblems()
@@ -41,10 +38,20 @@ namespace SoftUNIHW_OOP_5
         }
         static void nextProblem(string message)
         {
-            Console.ForegroundColor = ConsoleColor.Green; ;
+            Console.ForegroundColor = ConsoleColor.Green; 
             Console.WriteLine(message);
+            Console.WriteLine("Press the Any key to Proceed.\n\n");
             Console.ReadKey();
             Console.ForegroundColor = ConsoleColor.Gray;
+        }
+
+        static void exit()
+        {
+            Console.ForegroundColor = ConsoleColor.Green; 
+            Console.WriteLine("\n\nI Guess those were all the problems.");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Press the any key to exit");
+            Console.ReadKey();
         }
     }
 }
